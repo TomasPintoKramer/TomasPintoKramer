@@ -16,13 +16,14 @@ const tomi = {
   pronouns: 'he' | 'him',
   code: [Javascript, HTML, CSS ],
   tools: [React, Redux, Next, Node, Express, Passport, Sequelize, 
-  PostgreSQL, Mongo, Mongoose, ChakraUI, Docker],
+          PostgreSQL, Mongo, Mongoose, ChakraUI, Docker],
   personalInfo: {
                         bornAt: '15 April 1993',
                         livingIn: 'Buenos Aires',
                         tel: +54 9 11 5063 8601
                       },
- challengeSucceed: 'I completed more than 800hr coding at the Java Script bootcamp of Platafroma5 to become a FullStack Developer',
+ challengeSucceed: 'I completed more than 800hr coding at the Java Script
+                    bootcamp of Platafroma5 to become a FullStack Developer',
  learning:'Firebase',
  workingAt: ()=>{
                   let workingHours=0
@@ -33,7 +34,8 @@ const tomi = {
                 }
  lookingToCollaborateOn:'Any Intresting & Funny proyect'
  passions:[thater, reading, coding, playwriting]
- funFact:'As a child, I used to believe that I was the choosen one, such as Harry Potter ⚡'
+ funFact:'As a child, I used to believe that I was the choosen one,
+          as a Harry Potter ⚡ kind of thing...'
 }
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasPintoKramer&show_icons=true&theme=radical&count_private=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomasPintoKramer&theme=radical)](https://git.io/streak-stats)
