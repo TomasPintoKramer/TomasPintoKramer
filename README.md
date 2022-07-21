@@ -31,9 +31,9 @@ const tomi = {
                       workingHours++ 
                       }
                 return workingHours
-                }
- lookingToCollaborateOn:'Any Intresting & Funny proyect'
- passions:[thater, reading, coding, playwriting]
+                },
+ lookingToCollaborateOn:'Any Intresting & Funny proyect',
+ passions:[thater, reading, coding, playwriting],
  funFact:'As a child, I used to believe that I was the choosen one,
           as a Harry Potter ⚡ kind of thing...'
 }
