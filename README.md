@@ -13,16 +13,26 @@
 
 ```javascript
 const tomi = {
-  pronouns: "he" | "him",
+  pronouns: 'he' | 'him',
   code: [Javascript, HTML, CSS ],
-  tools: [React, Redux, Next, Node, Express, Passport, Sequelize, PostgreSQL, Mongo, Mongoose, ChakraUI, Docker],
+  tools: [React, Redux, Next, Node, Express, Passport, Sequelize, 
+  PostgreSQL, Mongo, Mongoose, ChakraUI, Docker],
   personalInfo: {
-                        bornAt: "15 April 1993",
-                        livingIn: "Buenos Aires",
+                        bornAt: '15 April 1993',
+                        livingIn: 'Buenos Aires',
                         tel: +54 9 11 5063 8601
                       },
  challengeSucceed: 'I completed more than 800hr coding at the Java Script bootcamp of Platafroma5 to become a FullStack Developer',
- learning:'Firebase'
+ learning:'Firebase',
+ workingAt: ()=>{
+                  let workingHours=0
+                  while(Hogarth){
+                      workingHours++ 
+                      }
+                return workingHours
+                }
+ lookingToCollaborateOn:'Any Intresting & Funny proyect'
+ passions:[thater, reading, coding, playwriting]
  funFact:'As a child, I used to believe that I was the choosen one, such as Harry Potter ⚡'
 }
 ```
