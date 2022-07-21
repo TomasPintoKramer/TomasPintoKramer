@@ -14,7 +14,7 @@
 ```javascript
 const tomi = {
   pronouns: 'he' | 'him',
-  code: [Javascript, HTML, CSS ],
+  code: [JavaScript, HTML, CSS ],
   tools: [React, Redux, Next, Node, Express, Passport, Sequelize, 
           PostgreSQL, Mongo, Mongoose, ChakraUI, Docker],
   personalInfo: {
@@ -26,14 +26,14 @@ const tomi = {
                     bootcamp of Platafroma5 to become a FullStack Developer',
  learning:'Firebase',
  workingAt: ()=>{
-                  let workingHours=0
+                  let workingHours=0;
                   while(Hogarth){
-                      workingHours++ 
+                      workingHours++;
                       }
-                return workingHours
+                      return workingHours;
                 },
  lookingToCollaborateOn:'Any Intresting & Funny proyect',
- passions:[thater, reading, coding, playwriting],
+ passions: [Theater, Reading, Coding, Playwriting],
  funFact:'As a child, I used to believe that I was the choosen one,
           as a Harry Potter ⚡ kind of thing...'
 }
