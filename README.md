@@ -2,7 +2,7 @@
 </h2>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.hogarth.com/">Hogarth</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></br>Mail me to: <a href="tomaspintokramer@gmail.com">tomaspintokramer@gmail.com</a></p>
+</em></br>Mail me to: <a href="mailto:tomaspintokramer@gmail.com">tomaspintokramer@gmail.com</a></p>
 
 [![Twitter: tomaspintokramer](https://img.shields.io/twitter/follow/tedpintokramer?style=social)](https://twitter.com/tedpintokramer)
 [![Linkedin: tomaspintokramer](https://img.shields.io/badge/-tomaspintokramer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaspintokramer/)](https://www.linkedin.com/in/tomaspintokramer/)
