@@ -2,7 +2,7 @@
 </h2>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="https://www.hogarth.com/">Hogarth</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</em></br>Mail me to: <a href="tomaspintokramer@gmail.com">tomaspintokramer@gmail.com</a></p>
 
 [![Twitter: tomaspintokramer](https://img.shields.io/twitter/follow/tedpintokramer?style=social)](https://twitter.com/tedpintokramer)
 [![Linkedin: tomaspintokramer](https://img.shields.io/badge/-tomaspintokramer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaspintokramer/)](https://www.linkedin.com/in/tomaspintokramer/)
@@ -16,15 +16,17 @@ const tomi = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS ],
   tools: [React, Redux, Next, Node, Express, Passport, Sequelize, PostgreSQL, Mongo, Mongoose, ChakraUI, Docker],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+  personalInfo: {
+                        bornAt: "15 April 1993",
+                        livingIn: "Buenos Aires",
+                        tel: +54 9 11 5063 8601
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challengeSucceed: 'I completed more than 800hr coding at the Java Script bootcamp of Platafroma5 to become a FullStack Developer',
+ learning:'Firebase'
+ funFact:'As a child, I used to believe that I was the choosen one, such as Harry Potter ⚡'
 }
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasPintoKramer&show_icons=true&theme=radical)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomasPintoKramer&theme=radical)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasPintoKramer&show_icons=true&theme=radical&count_private=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TomasPintoKramer&theme=radical)](https://git.io/streak-stats)
 <!--
 **TomasPintoKramer/TomasPintoKramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
