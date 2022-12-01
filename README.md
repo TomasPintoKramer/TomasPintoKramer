@@ -1,7 +1,7 @@
 <h2> Hi, I'm Tomas! <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50">
 </h2>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.hogarth.com/">Hogarth</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.librodepases.com/">Libro de Pases</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></br>Mail me to: <a href="mailto:tomaspintokramer@gmail.com">tomaspintokramer@gmail.com</a></p>
 
 [![Twitter: tomaspintokramer](https://img.shields.io/twitter/follow/tedpintokramer?style=social)](https://twitter.com/tedpintokramer)
@@ -14,8 +14,8 @@
 ```javascript
 const tomi = {
   pronouns: 'he' | 'him',
-  code: [JavaScript, HTML, CSS ],
-  tools: [React, Redux, Next, Node, Express, Passport, Sequelize, 
+  code: [JavaScript, HTML, CSS, TypeScript ],
+  tools: [React, React Native, Redux, Next, Node, Express, Passport, Sequelize, 
           PostgreSQL, Mongo, Mongoose, ChakraUI, Docker],
   personalInfo: {
                         bornAt: '15 April 1993',
@@ -27,7 +27,7 @@ const tomi = {
  learning:'Firebase',
  workingAt: ()=>{
                   let workingHours=0;
-                  while(Hogarth){
+                  while(LibroDePases){
                       workingHours++;
                       }
                       return workingHours;
