@@ -13,9 +13,8 @@
 
 ```javascript
 const tomi = {
-  pronouns: 'he' | 'him',
   code: [JavaScript, HTML, CSS, TypeScript ],
-  tools: [React, React Native, Redux, Next, Node, Express, Passport, Sequelize, 
+  tools: [React, React Native, Redux, Zustand, Next, Node, Express, Passport, Sequelize, 
           PostgreSQL, Mongo, Mongoose, ChakraUI, Docker],
   personalInfo: {
                         bornAt: '15 April 1993',
@@ -24,7 +23,7 @@ const tomi = {
                       },
  challengeSucceed: 'I completed more than 800hr coding at the Java Script
                     bootcamp of Platafroma5 to become a FullStack Developer',
- learning:'Firebase',
+ learning:'Jest',
  workingAt: ()=>{
                   let workingHours=0;
                   while(LibroDePases){
