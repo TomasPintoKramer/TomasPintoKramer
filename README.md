@@ -1,7 +1,7 @@
 <h2> Hi, I'm Tomas! <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50">
 </h2>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.linkedin.com/company/seed28">Seed28</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.linkedin.com/company/seed28">Qurable</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></br>Mail me to: <a href="mailto:tomaspintokramer@gmail.com">tomaspintokramer@gmail.com</a></p>
 
 [![Twitter: tomaspintokramer](https://img.shields.io/twitter/follow/tedpintokramer?style=social)](https://twitter.com/tedpintokramer)
@@ -26,7 +26,7 @@ const tomi = {
  learning:'Jest',
  workingAt: ()=>{
                   let workingHours=0;
-                  while(Seed28){
+                  while(Qurable){
                       workingHours++;
                       }
                       return workingHours;
